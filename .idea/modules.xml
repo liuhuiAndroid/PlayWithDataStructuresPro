@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-LinearSearch/1-LinearSearch.iml" filepath="$PROJECT_DIR$/1-LinearSearch/1-LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/20-Valid-Parentheses/20-Valid-Parentheses.iml" filepath="$PROJECT_DIR$/Leetcode/20-Valid-Parentheses/20-Valid-Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/203-Remove-Linked-List-Elements/203-Remove-Linked-List-Elements.iml" filepath="$PROJECT_DIR$/Leetcode/203-Remove-Linked-List-Elements/203-Remove-Linked-List-Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/206-LC206/206-LC206.iml" filepath="$PROJECT_DIR$/Leetcode/206-LC206/206-LC206.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/211-Word-Dictionary/211-Word-Dictionary.iml" filepath="$PROJECT_DIR$/Leetcode/211-Word-Dictionary/211-Word-Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/215-LCC215/215-LCC215.iml" filepath="$PROJECT_DIR$/Leetcode/215-LCC215/215-LCC215.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/303-Range-Sum-Query/303-Range-Sum-Query.iml" filepath="$PROJECT_DIR$/Leetcode/303-Range-Sum-Query/303-Range-Sum-Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/307-Range-Sum-Query/307-Range-Sum-Query.iml" filepath="$PROJECT_DIR$/Leetcode/307-Range-Sum-Query/307-Range-Sum-Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" filepath="$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" filepath="$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" filepath="$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AVLTree/AVLTree.iml" filepath="$PROJECT_DIR$/AVLTree/AVLTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debug-Recursion/Debug-Recursion.iml" filepath="$PROJECT_DIR$/Debug-Recursion/Debug-Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxHeap/MaxHeap.iml" filepath="$PROJECT_DIR$/MaxHeap/MaxHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Offer-40-LeastNumbers/Offer-40-LeastNumbers.iml" filepath="$PROJECT_DIR$/Leetcode/Offer-40-LeastNumbers/Offer-40-LeastNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Offer-51-ReversePairs/Offer-51-ReversePairs.iml" filepath="$PROJECT_DIR$/Leetcode/Offer-51-ReversePairs/Offer-51-ReversePairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" filepath="$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" filepath="$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SegmentTree/SegmentTree.iml" filepath="$PROJECT_DIR$/SegmentTree/SegmentTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ShellSort/ShellSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
+    </modules>
+  </component>
+</project>
