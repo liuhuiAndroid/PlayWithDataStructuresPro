@@ -1,22 +1,25 @@
+/**
+ * 基于比较的选择排序算法
+ */
 public class SelectionSort {
 
-    private SelectionSort() {}
+    private SelectionSort() {
+    }
 
     public static <E extends Comparable<E>> void sort(E[] arr) {
-        int i, j , minIndex;
-
+        int i, j, minIndex;
         // arr[0...i) 是有序的; arr[i...n) 是无序的
         for (i = 0; i < arr.length; i++) {
-
             // 选择 arr[i...n) 中的最小值的索引
             minIndex = i;
             for (j = i + 1; j < arr.length; j++) {
-                if (arr[j].compareTo(arr[minIndex]) < 0)
+                if (arr[j].compareTo(arr[minIndex]) < 0) {
                     minIndex = j;
+                }
             }
-
-            if (minIndex != i)
+            if (minIndex != i) {
                 swap(arr, i, minIndex);
+            }
         }
     }
 

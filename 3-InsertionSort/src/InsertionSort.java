@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * 插入排序法
+ */
 public class InsertionSort {
 
     private InsertionSort() {}
