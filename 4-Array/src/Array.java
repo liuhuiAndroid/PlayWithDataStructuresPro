@@ -1,3 +1,6 @@
+/**
+ * 动态数组
+ */
 public class Array<E> {
 
     private E[] data;

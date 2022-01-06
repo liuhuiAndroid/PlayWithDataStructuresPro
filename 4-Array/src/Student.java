@@ -31,7 +31,7 @@ public class Student implements Comparable<Student> {
             return false;
 
         Student another = (Student) student;
-        return this.name.toLowerCase().equals(another.name.toLowerCase());
+        return this.name.equalsIgnoreCase(another.name);
     }
 
     @Override
