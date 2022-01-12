@@ -13,6 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/Leetcode/303-Range-Sum-Query/303-Range-Sum-Query.iml" filepath="$PROJECT_DIR$/Leetcode/303-Range-Sum-Query/303-Range-Sum-Query.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/307-Range-Sum-Query/307-Range-Sum-Query.iml" filepath="$PROJECT_DIR$/Leetcode/307-Range-Sum-Query/307-Range-Sum-Query.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-Array/4-Array.iml" filepath="$PROJECT_DIR$/4-Array/4-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-1-MergeSort/5-1-MergeSort.iml" filepath="$PROJECT_DIR$/5-1-MergeSort/5-1-MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-Stack/5-Stack.iml" filepath="$PROJECT_DIR$/5-Stack/5-Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-Queue/6-Queue.iml" filepath="$PROJECT_DIR$/6-Queue/6-Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" filepath="$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" filepath="$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" filepath="$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" />
@@ -25,17 +28,14 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxHeap/MaxHeap.iml" filepath="$PROJECT_DIR$/MaxHeap/MaxHeap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Offer-40-LeastNumbers/Offer-40-LeastNumbers.iml" filepath="$PROJECT_DIR$/Leetcode/Offer-40-LeastNumbers/Offer-40-LeastNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Offer-51-ReversePairs/Offer-51-ReversePairs.iml" filepath="$PROJECT_DIR$/Leetcode/Offer-51-ReversePairs/Offer-51-ReversePairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" filepath="$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" filepath="$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/SegmentTree/SegmentTree.iml" filepath="$PROJECT_DIR$/SegmentTree/SegmentTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ShellSort/ShellSort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
     </modules>

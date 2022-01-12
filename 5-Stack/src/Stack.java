@@ -1,3 +1,6 @@
+/**
+ * 栈
+ */
 public interface Stack<E> {
 
     int getSize();
