@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/4-Array/4-Array.iml" filepath="$PROJECT_DIR$/4-Array/4-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-1-MergeSort/5-1-MergeSort.iml" filepath="$PROJECT_DIR$/5-1-MergeSort/5-1-MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-Stack/5-Stack.iml" filepath="$PROJECT_DIR$/5-Stack/5-Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-1-QuickSort/6-1-QuickSort.iml" filepath="$PROJECT_DIR$/6-1-QuickSort/6-1-QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/6-Queue/6-Queue.iml" filepath="$PROJECT_DIR$/6-Queue/6-Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" filepath="$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" filepath="$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" />
@@ -31,7 +32,6 @@
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Offer-40-LeastNumbers/Offer-40-LeastNumbers.iml" filepath="$PROJECT_DIR$/Leetcode/Offer-40-LeastNumbers/Offer-40-LeastNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Offer-51-ReversePairs/Offer-51-ReversePairs.iml" filepath="$PROJECT_DIR$/Leetcode/Offer-51-ReversePairs/Offer-51-ReversePairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" filepath="$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" filepath="$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/SegmentTree/SegmentTree.iml" filepath="$PROJECT_DIR$/SegmentTree/SegmentTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
