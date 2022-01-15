@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" filepath="$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/7-1-BinarySearch/7-1-BinarySearch.iml" filepath="$PROJECT_DIR$/7-1-BinarySearch/7-1-BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/8-1-BST/8-1-BST.iml" filepath="$PROJECT_DIR$/8-1-BST/8-1-BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-2-Set/8-2-Set.iml" filepath="$PROJECT_DIR$/8-2-Set/8-2-Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" filepath="$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" filepath="$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" />
       <module fileurl="file://$PROJECT_DIR$/AVLTree/AVLTree.iml" filepath="$PROJECT_DIR$/AVLTree/AVLTree.iml" />
@@ -34,7 +35,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" filepath="$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" />
       <module fileurl="file://$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" filepath="$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/SegmentTree/SegmentTree.iml" filepath="$PROJECT_DIR$/SegmentTree/SegmentTree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ShellSort/ShellSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
