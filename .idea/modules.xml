@@ -18,11 +18,11 @@
       <module fileurl="file://$PROJECT_DIR$/6-1-QuickSort/6-1-QuickSort.iml" filepath="$PROJECT_DIR$/6-1-QuickSort/6-1-QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/6-Queue/6-Queue.iml" filepath="$PROJECT_DIR$/6-Queue/6-Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" filepath="$PROJECT_DIR$/Leetcode/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-1-BinarySearch/7-1-BinarySearch.iml" filepath="$PROJECT_DIR$/7-1-BinarySearch/7-1-BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-1-BST/8-1-BST.iml" filepath="$PROJECT_DIR$/8-1-BST/8-1-BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" filepath="$PROJECT_DIR$/Leetcode/804-Unique-Morse-Representations/804-Unique-Morse-Representations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" filepath="$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" />
       <module fileurl="file://$PROJECT_DIR$/AVLTree/AVLTree.iml" filepath="$PROJECT_DIR$/AVLTree/AVLTree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Debug-Recursion/Debug-Recursion.iml" filepath="$PROJECT_DIR$/Debug-Recursion/Debug-Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
