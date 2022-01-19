@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/1-LinearSearch/1-LinearSearch.iml" filepath="$PROJECT_DIR$/1-LinearSearch/1-LinearSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-1-BubbleSort/10-1-BubbleSort.iml" filepath="$PROJECT_DIR$/10-1-BubbleSort/10-1-BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-1-SegmentTree/11-1-SegmentTree.iml" filepath="$PROJECT_DIR$/11-1-SegmentTree/11-1-SegmentTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-2-Trie/11-2-Trie.iml" filepath="$PROJECT_DIR$/11-2-Trie/11-2-Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-3-UnionFind/11-3-UnionFind.iml" filepath="$PROJECT_DIR$/11-3-UnionFind/11-3-UnionFind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-1-AVLTree/12-1-AVLTree.iml" filepath="$PROJECT_DIR$/12-1-AVLTree/12-1-AVLTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-2-RedBlackTree/12-2-RedBlackTree.iml" filepath="$PROJECT_DIR$/12-2-RedBlackTree/12-2-RedBlackTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-SelectionSort/2-SelectionSort.iml" filepath="$PROJECT_DIR$/2-SelectionSort/2-SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/20-Valid-Parentheses/20-Valid-Parentheses.iml" filepath="$PROJECT_DIR$/Leetcode/20-Valid-Parentheses/20-Valid-Parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/203-Remove-Linked-List-Elements/203-Remove-Linked-List-Elements.iml" filepath="$PROJECT_DIR$/Leetcode/203-Remove-Linked-List-Elements/203-Remove-Linked-List-Elements.iml" />
@@ -28,16 +32,12 @@
       <module fileurl="file://$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" filepath="$PROJECT_DIR$/Leetcode/875-LC875/875-LC875.iml" />
       <module fileurl="file://$PROJECT_DIR$/9-1-Heap/9-1-Heap.iml" filepath="$PROJECT_DIR$/9-1-Heap/9-1-Heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/9-2-MaxHeap/9-2-MaxHeap.iml" filepath="$PROJECT_DIR$/9-2-MaxHeap/9-2-MaxHeap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AVLTree/AVLTree.iml" filepath="$PROJECT_DIR$/AVLTree/AVLTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Debug-Recursion/Debug-Recursion.iml" filepath="$PROJECT_DIR$/Debug-Recursion/Debug-Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Offer-40-LeastNumbers/Offer-40-LeastNumbers.iml" filepath="$PROJECT_DIR$/Leetcode/Offer-40-LeastNumbers/Offer-40-LeastNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Offer-51-ReversePairs/Offer-51-ReversePairs.iml" filepath="$PROJECT_DIR$/Leetcode/Offer-51-ReversePairs/Offer-51-ReversePairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" filepath="$PROJECT_DIR$/.idea/PlayWithDataStructuresPro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" filepath="$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ShellSort/ShellSort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
     </modules>
   </component>
 </project>
